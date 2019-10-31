@@ -20,7 +20,7 @@
   }
 
   .header-style-two .main-menu .navigation > li {
-    margin: 0px 10px 0px 10px;
+    margin: 17px 22px 0px 10px;
   }
 
   .header-style-two .top-left .social-area{
@@ -687,7 +687,7 @@
     padding: 10px;
     cursor:  pointer;
     border-radius:0px;
-    background:  #f18f20;
+    background: #0779c3;
   }  
   .main-menu .navbar-header .navbar-toggle .icon-bar{
     background: #ffffff;
