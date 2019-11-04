@@ -2556,6 +2556,7 @@ img{
 .header-style-two .top-left{
   position: relative;
   float: left;
+    margin-bottom: -46px;
 }
 
 .header-style-two .top-right{
@@ -2572,8 +2573,8 @@ img{
 .header-style-two .top-left .logo-outer .logo-box{
   position: relative;
   display: block;
-  background: #2b3132;
-  padding: 38px 60px 42px 60px;
+  
+  padding: 12px 60px 42px 60px;
   text-align: center;
 }
 
@@ -2588,7 +2589,7 @@ img{
 .header-style-two .top-left .menu-area{
   position: relative;
   float: left;
-  padding-top: 24px;
+
 }
 
 .header-style-two .main-menu .navigation > li > a{
@@ -4672,6 +4673,8 @@ img{
 
 figure.logo-box a img {
     height: 64px;
+    margin-top: -5px;
+
 }
 
 .owl-nav {
